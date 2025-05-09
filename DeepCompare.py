@@ -1,4 +1,5 @@
-# Author: team ICU (Geonju Kim, Dongin Park, Taeju Park, Jinyeong Cho, Hyunsik Jeong)
+# Copyright (c) 2024-2025 Pusan National University and Renault Korea
+# Contributors: team ICU (Geonju Kim, Dongin Park, Taeju Park, Jinyeong Cho, Hyunsik Jeong)
 # Organization: Pusan National University
 # Cooperation: Renault Korea
 # Project: Detecting Missing or Inappropriately assembled parts in Car trim process Via CCTV

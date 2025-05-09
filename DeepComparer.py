@@ -77,7 +77,7 @@ class DeepCompare:
 def main() -> None:
     stream:str = 'D08 SAMPLE.mp4'
     
-    reference_classes:List[str] = ['AR1', 'HZG', 'LJL']
+    reference_classes:List[str] = ['Input', 'classes', 'here']
     reference_images_dict:Dict[str, List[cvImage]] = {class_name : [] for class_name in reference_classes}
     
     for class_name in reference_classes:
